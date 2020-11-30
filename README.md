@@ -7,8 +7,8 @@
 <table>
   <tr>
     <th>Screenshot1</th>
-    <th>Screenshot1</th>
-    <th>Screenshot1</th>
+    <th>Screenshot2</th>
+    <th>Screenshot3</th>
   </tr>
   
    <tr>
