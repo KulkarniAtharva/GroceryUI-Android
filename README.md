@@ -8,9 +8,9 @@
 
 <table>
   <tr>
-    <th>Screenshot1</th>
-    <th>Screenshot2</th>
-    <th>Screenshot3</th>
+    <th>Category click</th>
+    <th>Shop Showing</th>
+    <th>Home</th>
   </tr>
   
    <tr>
@@ -20,9 +20,9 @@
   </tr>
   
   <tr>
-    <th>Screenshot4</th>
-    <th>Screenshot5</th>
-    <th>Screenshot6</th>
+    <th>Product</th>
+    <th>Search category</th>
+    <th>Login SignUp</th>
   </tr>
   
    <tr>
