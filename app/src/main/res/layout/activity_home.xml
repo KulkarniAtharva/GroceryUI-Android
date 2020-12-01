@@ -85,6 +85,7 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
+
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
@@ -334,7 +335,6 @@
 
                         </RelativeLayout>
 
-
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -362,12 +362,6 @@
                     </LinearLayout>
                 </LinearLayout>
             </LinearLayout>
-
         </androidx.cardview.widget.CardView>
-
     </ScrollView>
-
-
-
-
 </LinearLayout>
